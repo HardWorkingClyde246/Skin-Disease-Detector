@@ -1,4 +1,0 @@
-image1 - chicken skin
-image2 - ringworm
-image3 - leprosy
-image4 - warts
