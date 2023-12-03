@@ -3,4 +3,4 @@ A skin disease image classification AI model which is fine-tuned using Yolov8 pr
 
 The best trained model is the best.pt file
 
-Or u can visit the following kaggle link: https://www.kaggle.com/tankeyu/btw-skin-disease-image-classification
+Or u can visit the following kaggle link and click run all: https://www.kaggle.com/tankeyu/btw-skin-disease-image-classification
